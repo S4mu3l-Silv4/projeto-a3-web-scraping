@@ -1,6 +1,6 @@
-# Exercícios da lista de Python:
+# Projeto web scrapping:
 
-  Estes exercícios foram desenvolvidos individualmente por https://github.com/S4mu3l-Silv4 como um aprimoramento pessoal, a partir de uma lista de exercícios da UNIFACS - Universidade Salvador CTN - Campus Tancredo Neves, objetivando praticar e demonstrar as minhas habilidades em programação back-end.
+  Este projeto foi desenvolvido coletivamente por https://github.com/RicardoH05, https://github.com/S4mu3l-Silv4 e https://github.com/Tucuterio como um trabalho em grupo A3 - Avaliação 3 da universidade UNIFACS - Universidade Salvador CTN - Campus Tancredo Neves, objetivando praticar e demonstrar as nossas habilidades em programação back-end.
   <br>
   <br>
 ## Tecnologias utilizadas:
